@@ -1,0 +1,1 @@
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (1, 'Max', 'Verstappen', 'Red Bull Racing', 1, 'Netherlands' );

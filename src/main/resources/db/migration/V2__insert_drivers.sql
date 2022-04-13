@@ -1,0 +1,10 @@
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (1, 'Max', 'Verstappen', 'Red Bull Racing', 1, 'Netherlands' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (2, 'Lewis', 'Hamilton', 'Mercedes', 44, 'United Kingdom' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (3, 'Carlos', 'Sainz', 'Ferrari', 55, 'Spain' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (4, 'Lando', 'Norris', 'McLaren', 4, 'United Kingdom' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (5, 'Fernando', 'Alonso', 'Alpine', 14, 'Spain' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (6, 'Pierre', 'Gasly', 'AlphaTauri', 10, 'France' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (7, 'Sebastian', 'Vettel', 'Aston Martin', 5, 'Germany' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (8, 'Nicholas', 'Lattifi', 'Williams', 6, 'Canada' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (9, 'Valtteri', 'Bottas', 'Alfa Romeo', 77, 'Finland' );
+INSERT INTO drivers (id, first_name, last_name, team, car_number, country) VALUES (10, 'Mick', 'Schumacher', 'Haas F1 Team', 47, 'Germany' );
